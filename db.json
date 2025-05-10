@@ -1,0 +1,48 @@
+{
+  "current": {
+    "location": "Warsaw",
+    "temperature": 19,
+    "condition": "Cloudy",
+    "icon": "04d",
+    "humidity": 65,
+    "wind": 12,
+    "pressure": 1012
+  },
+  "forecast": [
+    {
+      "day": "Mon",
+      "temperature": 20,
+      "icon": "01d"
+    },
+    {
+      "day": "Tue",
+      "temperature": 21,
+      "icon": "02d"
+    },
+    {
+      "day": "Wed",
+      "temperature": 19,
+      "icon": "03d"
+    },
+    {
+      "day": "Thu",
+      "temperature": 22,
+      "icon": "04d"
+    },
+    {
+      "day": "Fri",
+      "temperature": 18,
+      "icon": "10d"
+    },
+    {
+      "day": "Sat",
+      "temperature": 17,
+      "icon": "09d"
+    },
+    {
+      "day": "Sun",
+      "temperature": 16,
+      "icon": "13d"
+    }
+  ]
+}
